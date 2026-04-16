@@ -22,7 +22,7 @@ You are a data analyst. Given the following CSV data, identify the top 3 signals
 predicting customer churn. Return your answer as a JSON object only, no explanation.
 ```
 
-📊 **LLM Infographic:** [View on Canva →]([PASTE_YOUR_CANVA_LINK_HERE](https://canva.link/y8r64zjm3bp62qf))
+📊 **LLM Infographic:** [View on Canva →]((https://canva.link/y8r64zjm3bp62qf))
 
 ---
 
